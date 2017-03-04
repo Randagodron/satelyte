@@ -2424,7 +2424,7 @@ Wire Wire Line
 Wire Wire Line
 	7400 4100 7400 4350
 Wire Wire Line
-	7400 4350 8100 4350
+	7400 4350 8400 4350
 Connection ~ 8100 4350
 $Comp
 L VCOM #PWR157
@@ -2833,4 +2833,20 @@ Wire Wire Line
 	9650 2850 9550 2850
 Wire Wire Line
 	9350 2850 9250 2850
+$Comp
+L C_Small C125
+U 1 1 58BAB592
+P 8400 4200
+F 0 "C125" H 8410 4270 50  0000 L CNN
+F 1 "220p" H 8410 4120 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0603_HandSoldering" H 8400 4200 50  0001 C CNN
+F 3 "" H 8400 4200 50  0000 C CNN
+	1    8400 4200
+	1    0    0    1   
+$EndComp
+Wire Wire Line
+	8400 4100 8400 4000
+Connection ~ 8400 4000
+Wire Wire Line
+	8400 4350 8400 4300
 $EndSCHEMATC
