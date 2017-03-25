@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:distortion_01-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -757,7 +758,7 @@ F 3 "" H 1150 4300 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L POT RV_GAIN101
+L POT-RESCUE-distortion_01 RV_GAIN101
 U 1 1 58A04F01
 P 1500 3750
 F 0 "RV_GAIN101" H 1500 3650 50  0000 C CNN
@@ -980,7 +981,7 @@ F 3 "" H 3500 4500 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L POT RV_OCD101
+L POT-RESCUE-distortion_01 RV_OCD101
 U 1 1 58A07CE8
 P 4800 3550
 F 0 "RV_OCD101" H 4800 3450 50  0000 C CNN
@@ -1404,7 +1405,7 @@ $EndComp
 Text Label 11150 1350 1    60   ~ 0
 audio_prunes_out
 $Comp
-L POT RV_PRUNES101
+L POT-RESCUE-distortion_01 RV_PRUNES101
 U 1 1 58A161C1
 P 10900 1450
 F 0 "RV_PRUNES101" H 10900 1350 50  0000 C CNN
@@ -1566,7 +1567,7 @@ audio_fx_in
 Text Label 10550 4100 0    60   ~ 0
 audio_fx_out
 $Comp
-L POT RV_DRY101
+L POT-RESCUE-distortion_01 RV_DRY101
 U 1 1 58A249E3
 P 7200 3900
 F 0 "RV_DRY101" H 7200 3800 50  0000 C CNN
