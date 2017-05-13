@@ -1,4 +1,4 @@
-update=01/04/2017 19:08:10
+update=13/05/2017 20:09:12
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,3 +60,13 @@ LibName30=valves
 LibName31=C:/Users/Florian/Documents/dev/kicad/lib/kicad_flax_lib/flax_lib/flax_lib
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=../export/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
