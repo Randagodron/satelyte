@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:/Users/Florian/Documents/dev/stomp/distortion_01/cad/distortion_01.sch)
-    (date "13/05/2017 20:13:49")
+    (date "13/05/2017 21:19:13")
     (tool "Eeschema 4.0.5")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
