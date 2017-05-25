@@ -3,7 +3,7 @@
   (general
     (links 203)
     (no_connects 2)
-    (area 40.424999 33.174999 188.075001 114.575001)
+    (area 17.15 12.55 263.75 131.700001)
     (thickness 1.6)
     (drawings 86)
     (tracks 1279)
@@ -64,7 +64,7 @@
     (aux_axis_origin 0 0)
     (visible_elements 7FFCFFFF)
     (pcbplotparams
-      (layerselection 0x00000_00000001)
+      (layerselection 0x00000_80000000)
       (usegerberextensions false)
       (excludeedgelayer false)
       (linewidth 0.100000)
@@ -84,7 +84,7 @@
       (padsonsilk false)
       (subtractmaskfromsilk false)
       (outputformat 4)
-      (mirror true)
+      (mirror false)
       (drillshape 2)
       (scaleselection 1)
       (outputdirectory ../export/))
