@@ -1,4 +1,4 @@
-update=13/05/2017 20:09:12
+update=04/09/2017 12:54:04
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,8 +58,6 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=C:/Users/Florian/Documents/dev/kicad/lib/kicad_flax_lib/flax_lib/flax_lib
-[general]
-version=1
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -70,3 +68,5 @@ NetFmtName=
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=60
+[general]
+version=1
