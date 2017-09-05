@@ -765,7 +765,7 @@ F 1 "1M" H 1500 3750 50  0000 C CNN
 F 2 "flax_lib:PTV09" H 1500 3750 50  0001 C CNN
 F 3 "" H 1500 3750 50  0000 C CNN
 	1    1500 3750
-	-1   0    0    -1  
+	1    0    0    -1  
 $EndComp
 NoConn ~ 1250 3750
 $Comp
@@ -988,7 +988,7 @@ F 1 "470k" H 4800 3550 50  0000 C CNN
 F 2 "flax_lib:PTV09" H 4800 3550 50  0001 C CNN
 F 3 "" H 4800 3550 50  0000 C CNN
 	1    4800 3550
-	0    1    -1   0   
+	0    1    1    0   
 $EndComp
 $Comp
 L C_Small C108
@@ -1412,7 +1412,7 @@ F 1 "470k" H 10900 1450 50  0000 C CNN
 F 2 "flax_lib:PTV09" H 10900 1450 50  0001 C CNN
 F 3 "" H 10900 1450 50  0000 C CNN
 	1    10900 1450
-	0    1    -1   0   
+	0    1    1    0   
 $EndComp
 $Comp
 L VCOM #PWR047
@@ -1574,7 +1574,7 @@ F 1 "470k" H 7200 3900 50  0000 C CNN
 F 2 "flax_lib:PTV09" H 7200 3900 50  0001 C CNN
 F 3 "" H 7200 3900 50  0000 C CNN
 	1    7200 3900
-	0    1    -1   0   
+	0    1    1    0   
 $EndComp
 $Comp
 L VCOM #PWR056
